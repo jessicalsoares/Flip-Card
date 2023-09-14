@@ -49,7 +49,6 @@
     transform: rotateY(180deg); /* Inicialmente, o verso está virado */
 }
 
-
 .flip-card-image {
     width: 100%;
     height: 100%;
